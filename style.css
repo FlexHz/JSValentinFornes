@@ -1,0 +1,13 @@
+.azul {
+  color: blue;
+}
+
+.deshabilitar {
+  background-color: #f0f0f0;
+  cursor: not-allowed;
+}
+
+#divstorage {
+  border: 2px solid black;
+  padding: 10px;
+}
